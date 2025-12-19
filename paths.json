@@ -5,6 +5,6 @@
     "/content/eds-ue-demo1121/metadata:/metadata.json"
   ],
   "includes": [
-    "/ccontent/eds-ue-demo1121/"
+    "/content/eds-ue-demo1121/"
   ]
 }
