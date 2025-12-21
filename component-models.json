@@ -236,6 +236,7 @@
         "component": "richtext",
         "valueType": "string",
         "name": "textContent_text",
+        "label": "Text Content",
         "title": "Text",
         "required": true
       },
